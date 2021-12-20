@@ -1,2 +1,2 @@
 # Python-Basic-Programming-assignments
-Python programming assignments given by ineuron
+Python programming assignments by ineuron
