@@ -1,2 +1,2 @@
-# Python-Basic-Programming-assignments
-Python programming assignments by ineuron
+# Python-Basic-Programming-Tasks
+Python programming tasks for beginners(ineuron)
